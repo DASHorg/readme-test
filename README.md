@@ -1,6 +1,10 @@
 <img src="bat-dark.svg">
      
+<!-- Light mode -->
+<img src="bat-light.svg#gh-light-mode-only" width="100%">
 
+<!-- Dark mode -->
+<img src="bat-dark.svg#gh-dark-mode-only" width="100%">
 
 ```text
      .xo@@@$@@BBoC? .                                                                   ~YhB@@$@$@@#z`..
